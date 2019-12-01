@@ -1,0 +1,12 @@
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp2.1\AdventOfCode1.deps.json
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp2.1\AdventOfCode1.runtimeconfig.json
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp2.1\AdventOfCode1.runtimeconfig.dev.json
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp2.1\AdventOfCode1.dll
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp2.1\AdventOfCode1.pdb
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp2.1\AdventOfCode1.csprojAssemblyReference.cache
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp2.1\AdventOfCode1.csproj.CoreCompileInputs.cache
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp2.1\AdventOfCode1.AssemblyInfoInputs.cache
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp2.1\AdventOfCode1.AssemblyInfo.cs
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp2.1\AdventOfCode1.dll
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp2.1\AdventOfCode1.pdb
+C:\Users\mangz\source\repos\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp2.1\data.json
